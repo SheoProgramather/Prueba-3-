@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Ensalada",
+        "valor": 5600,
+        "iva": 1064
+    },
+    {
+        "nombre": "Ensalada",
+        "valor": 9600,
+        "iva": 1824
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 2100,
+        "iva": 399
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 9100,
+        "iva": 1729
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 7500,
+        "iva": 1425
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 4100,
+        "iva": 779
+    },
+    {
+        "nombre": "Chocolate Caliente",
+        "valor": 9500,
+        "iva": 1805
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 8800,
+        "iva": 1672
+    },
+    {
+        "nombre": "S\u00e1ndwich de Huevo",
+        "valor": 6600,
+        "iva": 1254
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 9700,
+        "iva": 1843
+    },
+    {
+        "nombre": "S\u00e1ndwich de Huevo",
+        "valor": 3800,
+        "iva": 722
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "valor": 2000,
+        "iva": 380
+    },
+    {
+        "nombre": "T\u00e9 Chai",
+        "valor": 3800,
+        "iva": 722
+    },
+    {
+        "nombre": "T\u00e9 Chai",
+        "valor": 5100,
+        "iva": 969
+    },
+    {
+        "nombre": "Frapp\u00e9 de Caramelo",
+        "valor": 2900,
+        "iva": 551
+    }
+]
